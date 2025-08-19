@@ -25,4 +25,4 @@
 
 ## 📫 Onde me encontrar  
 
-[![E-mail](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:artorias8456@gmail.com)
+[![E-mail](https://img.icons8.com/ios/50/ffffff/email.png)](mailto:artorias8456@gmail.com)
