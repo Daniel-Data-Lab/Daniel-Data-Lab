@@ -25,4 +25,4 @@
 
 ## 📫 Onde me encontrar  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](artorias8456@gmail.com)  
+[![E-mail](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:artorias8456@gmail.com)
