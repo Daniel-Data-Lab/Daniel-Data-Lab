@@ -26,6 +26,6 @@
 ## 📫 Onde me encontrar  
 
 <a href="mailto:artorias8456@gmail.com">
-  <img src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/30/ffffff/external-email-contact-us-tanah-basah-basic-outline-tanah-basah.png" alt="email" />
-  E-mail
+  <img align="center" alt="email" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  <span>E-mail</span>
 </a>
