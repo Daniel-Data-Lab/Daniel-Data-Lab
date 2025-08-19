@@ -25,7 +25,3 @@
 
 ## 📫 Onde me encontrar  
 
-<a href="mailto:artorias8456@gmail.com">
-  <img align="center" alt="email" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-  <span>E-mail</span>
-</a>
