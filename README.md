@@ -18,7 +18,7 @@
 
 ### 📊 Estatísticas do GitHub  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Daniel-Data-Lab&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-Data-Lab&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Daniel-Data-Lab&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-Data-Lab&theme=tokyonight)
 
 
 ---
