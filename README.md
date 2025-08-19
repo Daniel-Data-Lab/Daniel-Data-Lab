@@ -25,4 +25,4 @@
 
 ## 📫 Onde me encontrar  
 
-[![E-mail](https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/75/ffffff/external-Email-contact-us-tanah-basah-basic-outline-tanah-basah.png)](mailto:artorias8456@gmail.com)
+[![E-mail](https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/30/ffffff/external-email-contact-us-tanah-basah-basic-outline-tanah-basah.png) **E-mail**](mailto:artorias8456@gmail.com)
